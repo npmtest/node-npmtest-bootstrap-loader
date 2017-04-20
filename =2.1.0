@@ -1,0 +1,15 @@
+npmtest-bootstrap-loader@0.0.1 /home/travis/build/npmtest/node-npmtest-bootstrap-loader
+├─┬ extract-text-webpack-plugin@2.1.0 
+│ ├─┬ ajv@4.11.7 
+│ │ ├── co@4.6.0 
+│ │ └─┬ json-stable-stringify@1.0.1 
+│ │   └── jsonify@0.0.0 
+│ ├─┬ async@2.3.0 
+│ │ └── lodash@4.17.4 
+│ └── webpack-sources@0.1.5 
+├── UNMET PEER DEPENDENCY node-sass@*
+├── UNMET PEER DEPENDENCY resolve-url-loader@*
+├── UNMET PEER DEPENDENCY sass-loader@*
+├── UNMET PEER DEPENDENCY url-loader@*
+└── UNMET PEER DEPENDENCY webpack@^2.2.0
+
